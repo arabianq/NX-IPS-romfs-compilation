@@ -1,0 +1,4 @@
+The Plucky Squire | romfs | 1.0.8
+
+-Increased resolution from 918p to 1080p (docked)
+-Increased resolution from 612p to 720p (handheld)
