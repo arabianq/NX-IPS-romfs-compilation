@@ -1,0 +1,6 @@
+OlliOlliWorld | romfs | v1.3.1 
+
+  - 720p (Handheld) up from 576p
+  - 1080p (Docked) up from 864p
+
+By ChanseyIsTheBest
