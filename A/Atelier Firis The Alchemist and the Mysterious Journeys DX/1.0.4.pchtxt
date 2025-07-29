@@ -1,0 +1,14 @@
+@nsobid-8BB29E319CCE6357831BABE10F554EAA388D23FC000000000000000000000000
+# Atelier Firis: The Alchemist and the Mysterious Journeys DX 1.0.4 720p/1080p Handheld/Docked Fixed
+
+@flag offset_shift 0x100
+@enabled
+
+0058c374 09A08052 // | mov w9,#0x420 | 1056 handheld hori 1
+0058c394 0AF08052 // | mov w10,#0x5a0 | 1440 docked hori 1
+0058c3a0 08F08052 // | mov w8,#0x640 | 1600 docked hori 2
+0058c3d4 095A8052 // | mov w9,#0x252 | 594 handheld vert 1
+0058c3f4 0A878052 // | mov w10,#0x32a | 810 docked vert 1
+0058c400 08878052 //| mov w8,#0x384 | 900 docked vert 2
+
+
