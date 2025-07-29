@@ -1,0 +1,3 @@
+Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX | IPS | v1.0.3
+- Resolution increased to 720p (Handheld) / 1080p (Docked) from 594p - 720p (Handheld) and 810p - 900p - 1080p (Docked)
+By ChanseyIsTheBest
