@@ -1,0 +1,14 @@
+@nsobid-78A3315ACF12E24197920AA0570D78CF000000000000000000000000 00000000
+# Sumire 720p Handheld / 1080p Docked
+
+@flag offset_shift 0x100
+@enabled
+01683128 015A8052 // mov w1,#0x240 vertical handheld
+0168312c 00A08052 // mov w0,#0x400 horizontal handheld 
+016830c4 00F08052 // mov w0,#0x680 horizontal docked
+016830c8 01878052 // mov w1,#0x3a8 vertical docked
+01683628 00F08052 // mov w0,#0x680 horizontal docked
+01683630 01878052 // mov w1,#0x3a8 vertical docked
+01683698 015A8052 // mov w1,#0x240 vertical handheld
+0168369c 00A08052 // mov w0,#0x400 horizontal handheld
+@stop

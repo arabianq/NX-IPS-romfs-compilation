@@ -1,0 +1,12 @@
+@nsobid-96AA5068253C2BB0D218F1BFB0C6775385347317000000000000000000000000
+# Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings 1.0.5 720p/1080p Handheld/Docked Fixed
+
+@flag offset_shift 0x100
+@enabled
+
+00695494 09A08052 // | mov w9,#0x420 | 1056 handheld hori 1
+006954b4 0AF08052 // | mov w10,#0x5a0 | 1440 docked hori 1
+006954c0 08F08052 // | mov w8,#0x640 | 1600 docked hori 2
+006954f4 095A8052 // | mov w9,#0x252 | 594 handheld vert 1
+00695514 0A878052 // | mov w10,#0x32a | 810 docked vert 1
+00695520 08878052 //| mov w8,#0x384 | 900 docked vert 2
