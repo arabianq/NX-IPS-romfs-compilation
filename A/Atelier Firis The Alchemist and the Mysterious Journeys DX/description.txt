@@ -1,0 +1,3 @@
+Atelier Firis: The Alchemist and the Mysterious Journeys DX | IPS | v1.0.4
+- Resolution increased to 720p (Handheld) / 1080p (Docked) from 594p - 720p (Handheld) and 810p - 900p - 1080p (Docked)
+By ChanseyIsTheBest
