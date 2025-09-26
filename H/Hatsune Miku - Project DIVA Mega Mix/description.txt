@@ -1,0 +1,12 @@
+Hatsune Miku: Project DIVA Mega Mix 1.0.6 
+Graphics Enhancement mod
+Patches by CyberKevin - DeathChaos - Nas - Stewie1.0 - SwigS-27 - ActualMandM
+Shader fix by Nastys
+
+- Resolution fixed to 585p Handheld 720p Docked (998mhz GPU and 2400mhz ram will give you 720p 60FPS on all songs outside of Knife)
+- Raised cap on all songs to 60FPS
+- Disabled toon shading so game looks like Future Tone on PS4 (lighting quality is below PS4 Future Tone but above PS3 Dreamy Theatre)
+- No Copyright and Watermarks on screenshot/video
+- Force Future Tone animations on old arcade songs
+- Allow unlimited accessories on demanding songs (may cause lag)
+- Optional 884p Handheld 1080p Docked mod disabled by default located in pchtxt (Need max Mariko OC not all songs will run at 60)
