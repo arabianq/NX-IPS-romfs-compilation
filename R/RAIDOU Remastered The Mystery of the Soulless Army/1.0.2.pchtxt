@@ -1,9 +1,14 @@
-@nsobid-924EFA9CC71A072EAB61E0567A7953E60000 0000000000000000000000000000
-# RAIDOU Remastered: The Mystery of the Soulless Army 1.0.2 720p Handheld / 1080p Docked
+@nsobid-DF59EA160C3582D411C3B83D93FC7FEF
 
+# RAIDOU Remastered: The Mystery of the Soulless Army [01002D601ADBA000] v.1.10 - 1080p Docked - 720p Handheld
+
+@flag print_values
 @flag offset_shift 0x100
+
+// 1080p Docked - 720p Handheld
+
 @enabled
-03cfbf20 0000803f // 0000003f00000040 below and 00000000cdcccc3d above, original value cdcc4c3f 
+03D0CA98 0000803F // 0000003f00000040 below and 00000000cdcccc3d above, original value cdcc4c3f 
 @stop
 
 
