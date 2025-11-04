@@ -1,0 +1,3 @@
+Super Mario Galaxy 2 | romfs |  v1.2.0
+- Increase dynamic resolution target in all levels to 720p/1080p (Handheld/Docked)
+By ChanseyIsTheBest
