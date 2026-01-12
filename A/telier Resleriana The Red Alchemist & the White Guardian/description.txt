@@ -1,0 +1,10 @@
+Atelier Resleriana: The Red Alchemist & the White Guardian | romfs | v1.4
+- Increased detail density
+- Increased basemap distance
+- Increase terrain detail + tree distance
+- Increased terrain billboard start
+- Increase terrain fade length
+- Increased LOD bias
+- Enabled 4x MSAA
+- Increase max trees
+- Increased ansio filtering
