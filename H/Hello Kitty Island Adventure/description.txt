@@ -1,0 +1,3 @@
+Hello Kitty Island Adventure | romfs | v2.11.1
+- Increased anisotropic filtering to 4x
+- Enabled 4xAA MSAA
